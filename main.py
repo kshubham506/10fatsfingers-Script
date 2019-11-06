@@ -38,7 +38,7 @@ def typestart():
         inp.send_keys(Keys.SPACE)
 
     print("\n\nYou Won...")
-    browser.quit()
+    #browser.quit()
     
 def init():
     
